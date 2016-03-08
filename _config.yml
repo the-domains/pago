@@ -2,6 +2,7 @@ name: Pago
 favicon: null
 layout_spectrum: 0.34565
 typography_spectrum: 0.49597
+title: Pago App
 cta:
   domain: null
   bucket: null
