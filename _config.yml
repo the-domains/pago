@@ -1,7 +1,7 @@
 name: Pago
 favicon: null
-layout_spectrum: 0.250208054902032
-typography_spectrum: 0.8762765168212354
+layout_spectrum: 0.34565
+typography_spectrum: 0.49597
 cta:
   domain: null
   bucket: null
